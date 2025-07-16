@@ -1,15 +1,18 @@
-## Hi there
-<!--
-**arushdesp/arushdesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Harry (arushdesp) ðŸ‘‹
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **DevOps Engineer**
+- Linux enthusiast
+- JavaScript (Node.js)
+- Docker, Kubernetes
+- AWS Certified Cloud Solution Architect
+- Many unfinished projects..
+- 
+## Language Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arushdesp&layout=compact&hide_border=true&theme=github_dark)
+
+## Connect with Me
+
+- [GitHub Profile](https://github.com/arushdesp)
