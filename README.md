@@ -1,4 +1,4 @@
-# Hi, I'm Harry
+# Hi there, I'm Harry
 
 ## About Me
 
@@ -17,3 +17,4 @@
 ## Connect with Me
 
 - [GitHub Profile](https://github.com/arushdesp)
+- [Linkedin](https://www.linkedin.com/in/charilaos-mitsis-5220401bb/)
